@@ -1,4 +1,4 @@
-# Application Progress Tracker
+# Khula App Assessment
 
 A React-based web application that simulates a user journey through an application process, featuring a dynamic progress tracking system, credit check visualisation, and a multi-step form process.
 
